@@ -7,7 +7,7 @@
 ITCSS is an archiecture methodology for scalable CSS by [@csswizardry](https://twitter.com/csswizardry).
 To learn more, read the following (https://developer.helpscout.com/seed/glossary/itcss/).
 
-´´´
-npm i --save bootstrap@5 @ng-bootstrap/ng-bootstrap@12
-´´´
 
+```
+npm i --save bootstrap@5 @ng-bootstrap/ng-bootstrap@12
+```
