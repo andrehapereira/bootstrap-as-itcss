@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap5-as-itcss",
+  "version": "1.0.0",
+  "description": "This repository is a base integration of bootstrap 5 with the Inverted Triangle CSS methodology.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrehapereira/bootstrap-as-itcss.git"
+  },
+  "keywords": [
+    "itcss",
+    "bootstrap",
+    "css",
+    "frontend",
+    "bootstrap5",
+    "styling"
+  ],
+  "author": "AndrePereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrehapereira/bootstrap-as-itcss/issues"
+  },
+  "homepage": "https://github.com/andrehapereira/bootstrap-as-itcss#readme"
+}
